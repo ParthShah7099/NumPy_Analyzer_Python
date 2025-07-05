@@ -1,3 +1,13 @@
+'''
+PR.8 NumPy Analyzer
+
+Develop a NumPy Analyzer that integrates Numpy functionalities and Object-Oriented 
+Programming (OOP) principles. The toolkit will allow users to perform common data 
+operations, statistical analyses, and mathematical computations on datasets using 
+Numpy arrays.
+
+'''
+
 import numpy as np
 
 class DataAnalytics:
