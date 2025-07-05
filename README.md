@@ -102,25 +102,25 @@ The `main()` function powers the **menu-driven UI**, guiding the user step by st
 ## 🔎 How It Works (Demo)
 
 ### 📌 Welcome Menu
-![Welcome Menu](./images/demo_0.png)
+![Welcome Menu](./images/Demo_0.png)
 
 ### ➕ Array Creation
-![Array Creation](./images/demo_1.png)
+![Array Creation](./images/Demo_1.png)
 
 ### 🔢 Mathematical Operations
-![Mathematical Operations](./images/demo_2.png)
+![Mathematical Operations](./images/Demo_2.png)
 
 ### 🔗 Combine or Split Arrays
-![Combine or Split](./images/demo_3.png)
+![Combine or Split](./images/Demo_3.png)
 
 ### 🔍 Search, Sort, or Filter Arrays
-![Search, Sort, or Filter](./images/demo_4.png)
+![Search, Sort, or Filter](./images/Demo_4.png)
 
 ### 📊 Aggregation and Statistics
-![Aggregation and Statics](./images/demo_5.png)
+![Aggregation and Statics](./images/Demo_5.png)
 
 ### 👋 Exit
-![Exit](./images/demo_6.png)
+![Exit](./images/Demo_6.png)
 
 ---
 
